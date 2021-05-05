@@ -21,6 +21,7 @@ function Home(){
 
       <h1>HI I'm JOSHUA</h1>
       <h1>Linkdzilla :D by linkdzilla.com</h1>
+      <h1>IS THIS WORKING?</h1>
       <SampleComponent alert={alertMessage}/>
       <SampleComponent alert={alertMessage}/>
       <SampleComponent alert={alertMessage1}/>
