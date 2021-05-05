@@ -1,4 +1,7 @@
+import Head from "next/head"
+
 import SampleComponent from "../components/sample-component";
+
 
 function Home(){
 
@@ -12,6 +15,10 @@ function Home(){
 
   return(
     <div>
+      <Head>
+        <title>Linkdzilla</title>
+      </Head>
+
       <h1>HI I'm JOSHUA</h1>
       <h1>Linkdzilla :D by linkdzilla.com</h1>
       <SampleComponent alert={alertMessage}/>
