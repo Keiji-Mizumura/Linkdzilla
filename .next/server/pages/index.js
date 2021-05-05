@@ -15,7 +15,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 
-var _jsxFileName = "D:\\Documents\\Linkdzilla\\Linkdzilla\\components\\sample-component.jsx";
+var _jsxFileName = "C:\\Users\\keiji\\OneDrive\\Documents\\Programming\\nextjs\\linkdzilla-dev\\Webpage\\components\\sample-component.jsx";
 
 function SampleComponent(props) {
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
@@ -58,7 +58,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_sample_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/sample-component */ "./components/sample-component.jsx");
 
-var _jsxFileName = "D:\\Documents\\Linkdzilla\\Linkdzilla\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\keiji\\OneDrive\\Documents\\Programming\\nextjs\\linkdzilla-dev\\Webpage\\pages\\index.js";
 
 
 
