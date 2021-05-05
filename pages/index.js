@@ -14,6 +14,7 @@ function Home(){
     <div>
       <h1>Linkdzilla :D by linkdzilla.com</h1>
       <SampleComponent alert={alertMessage}/>
+      <SampleComponent alert={alertMessage}/>
       <SampleComponent alert={alertMessage1}/>
     </div>
   )
