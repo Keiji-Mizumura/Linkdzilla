@@ -12,6 +12,7 @@ function Home(){
 
   return(
     <div>
+      <h1>HI I'm JOSHUA</h1>
       <h1>Linkdzilla :D by linkdzilla.com</h1>
       <SampleComponent alert={alertMessage}/>
       <SampleComponent alert={alertMessage}/>
